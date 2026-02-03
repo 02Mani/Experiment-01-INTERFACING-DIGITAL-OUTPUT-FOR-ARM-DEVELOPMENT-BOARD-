@@ -107,7 +107,9 @@ ret
 ~~~
 
 ## Output  :
- <img width="1919" height="1064" alt="image" src="https://github.com/user-attachments/assets/317a7eca-058b-4f96-9bd5-bd311d7e994f" />
+
+<img width="1501" height="1066" alt="image" src="https://github.com/user-attachments/assets/d2b3da53-df64-44cf-b79e-d0304c1f6452" />
+
 
  program for logical operation:
  ~~~
@@ -142,7 +144,9 @@ MOV [5008H], AX
 RET
  ~~~
 ## Output  :
- <img width="1919" height="1062" alt="image" src="https://github.com/user-attachments/assets/eb3ce808-0712-4d37-ae39-6842cc77cd9e" />
+<img width="1486" height="1073" alt="image" src="https://github.com/user-attachments/assets/a95d865a-1450-4443-a206-89d4bf56d41b" />
+
+
 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
